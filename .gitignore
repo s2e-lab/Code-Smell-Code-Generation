@@ -127,3 +127,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+RQ1/APPS/APPS/
+RQ1/APPS/ParsedTrainFiles/
+RQ1/CodeXGlue/dataset/
+RQ1/Code_Clippy/Bandit/bandit_output/
+RQ1/Code_Clippy/Bandit/bandit_output_1/
+RQ1/Code_Clippy/Pylint/
+RQ1/Code_Clippy/Pylint_0/
+RQ2/gpt-code-clippy-evaluation-model_results/
+RQ3/HumanEval/HumanEval_0/
+RQ3/HumanEval/HumanEval/
+RQ3/HumanEval/HumanEval_1/
+RQ3/HumanEval/HumanEval_2/
+RQ3/HumanEval/HumanEval_3/
+.DS_Store
+scam_2022.pdf

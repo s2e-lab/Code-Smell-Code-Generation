@@ -1,0 +1,7 @@
+Message,Count
+B101_assert_used,48
+B311_blacklist,13
+B324_hashlib,9
+B110_try_except_pass,1
+B307_blacklist,1
+B112_try_except_continue,1

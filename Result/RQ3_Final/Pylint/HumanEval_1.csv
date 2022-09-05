@@ -1,0 +1,16 @@
+Message,Count
+C0301-line-too-long,51
+W0613-unused-argument,14
+W0612-unused-variable,3
+R1710-inconsistent-return-statements,19
+E0602-undefined-variable,9
+W0108-unnecessary-lambda,1
+R1705-no-else-return,7
+C0206-consider-using-dict-items,1
+W0311-bad-indentation,3
+C0200-consider-using-enumerate,3
+R1719-simplifiable-if-expression,1
+W0105-pointless-string-statement,1
+R1703-simplifiable-if-statement,1
+R1718-consider-using-set-comprehension,1
+W0622-redefined-builtin,1

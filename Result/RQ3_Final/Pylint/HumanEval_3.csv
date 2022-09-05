@@ -1,0 +1,15 @@
+Message,Count
+C0200-consider-using-enumerate,5
+W0613-unused-argument,12
+R1710-inconsistent-return-statements,19
+C0301-line-too-long,46
+E0602-undefined-variable,8
+W0108-unnecessary-lambda,1
+R1705-no-else-return,9
+W0107-unnecessary-pass,3
+W0612-unused-variable,5
+W0105-pointless-string-statement,1
+R1703-simplifiable-if-statement,1
+R0911-too-many-return-statements,1
+R1718-consider-using-set-comprehension,1
+W0622-redefined-builtin,1

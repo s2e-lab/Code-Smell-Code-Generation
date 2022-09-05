@@ -1,0 +1,16 @@
+Message,Count
+B110_try_except_pass,591
+B101_assert_used,329
+B311_blacklist,302
+B307_blacklist,1229
+B105_hardcoded_password_string,23
+B112_try_except_continue,19
+B102_exec_used,6
+B107_hardcoded_password_default,1
+B303_blacklist,11
+B310_blacklist,7
+B605_start_process_with_a_shell,5
+B607_start_process_with_partial_path,1
+B404_blacklist,5
+B603_subprocess_without_shell_equals_true,3
+B602_subprocess_popen_with_shell_equals_true,1

@@ -1,0 +1,12 @@
+Message,Count
+W0613-unused-argument,579
+C0301-line-too-long,147
+W0104-pointless-statement,10
+E0602-undefined-variable,57
+W0105-pointless-string-statement,13
+R0801-duplicate-code,6
+W0106-expression-not-assigned,30
+W0622-redefined-builtin,1
+W0621-redefined-outer-name,1
+W0612-unused-variable,1
+C0121-singleton-comparison,3
