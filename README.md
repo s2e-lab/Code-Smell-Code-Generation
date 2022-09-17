@@ -3,6 +3,8 @@
 This repository contains the scripts used for the accepted paper in the research track of the 22nd IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM 2022), titled **An Empirical Study of Code Smells in Transformer-based Code Generation Techniques**. The paper provides an empirical study on containing (security) code smell in the code generation dataset and the output of the code generation model. It also demonstrates the code smell in the output of GitHub Copilot. 
 
 Full data: https://zenodo.org/record/7049118#.YxVuhy-B1hF
+
+The artifact is awarded the "Open Research Objects (ORO)" and "Research Objects Reviewed (ROR)" badges.
 ## Installation
 We used Pylint and Bandit for our analysis.
 To install pylint, run the following command:
