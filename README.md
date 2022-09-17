@@ -4,7 +4,7 @@ This repository contains the scripts used for the accepted paper in the research
 
 Full data: https://zenodo.org/record/7049118#.YxVuhy-B1hF
 
-The artifact is awarded the "Open Research Objects (ORO)" and "Research Objects Reviewed (ROR)" badges.
+The artifact is awarded the **"Open Research Objects (ORO)"** and **"Research Objects Reviewed (ROR)"** badges.
 ## Installation
 We used Pylint and Bandit for our analysis.
 To install pylint, run the following command:
